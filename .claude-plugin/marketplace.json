@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-gemini-cli",
+  "description": "Makes Gemini CLI a full-capability AI colleague for Claude Code — proactive collaboration, not just on-demand delegation.",
+  "owner": {
+    "name": "qichiyuhub",
+    "url": "https://github.com/qichiyuhub"
+  },
+  "plugins": [
+    {
+      "name": "skill-gemini-cli",
+      "source": "./plugins/skill-gemini-cli",
+      "description": "Full-capability AI colleague — real-time search, 2M-token analysis, multi-modal, concurrent sub-agents, cross-validation",
+      "version": "2.0.0",
+      "category": "development",
+      "homepage": "https://github.com/qichiyuhub/skill-gemini-cli",
+      "tags": [
+        "skill",
+        "gemini",
+        "automation",
+        "web-search",
+        "codebase-investigator"
+      ]
+    }
+  ]
+}

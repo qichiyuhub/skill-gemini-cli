@@ -1,0 +1,21 @@
+{
+  "name": "skill-gemini-cli",
+  "description": "Makes Gemini CLI a full-capability AI colleague for Claude Code — real-time search, 2M-token codebase analysis, multi-modal processing, concurrent sub-agents, and cross-validation.",
+  "version": "2.0.0",
+  "author": {
+    "name": "qichiyuhub",
+    "url": "https://github.com/qichiyuhub"
+  },
+  "homepage": "https://github.com/qichiyuhub/skill-gemini-cli",
+  "repository": "https://github.com/qichiyuhub/skill-gemini-cli",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "skill",
+    "gemini",
+    "google",
+    "automation",
+    "code-review"
+  ]
+}
